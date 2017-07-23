@@ -1,15 +1,17 @@
 {
-  "dependencies": {
-    "eslint": "^4.3.0"
-  },
+  "dependencies": {},
   "devDependencies": {
-    "eslint-config-google": "^0.9.1"
+    "chai": "^4.1.0",
+    "eslint": "^4.3.0",
+    "eslint-config-google": "^0.9.1",
+    "mocha": "^3.4.2",
+    "sinon": "^2.3.8"
   },
   "name": "jad",
   "description": "put your files into a directory so that you can version it",
   "main": "index.js",
   "scripts": {
-    "test": "yarn test"
+    "test": "node_modules/.bin/mocha; node_modules/.bin/eslint .;"
   },
   "repository": {
     "type": "git",
