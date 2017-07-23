@@ -1,10 +1,8 @@
 **! This is speaking about features not out yet, check version !**
 
-[![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Join the chat at https://gitter.im/just-a-directory/Lobby][gitter-img]][gitter-url]
 
 # J.A.D. : Just A Directory
-
-[![Join the chat at https://gitter.im/just-a-directory/Lobby](https://badges.gitter.im/just-a-directory/Lobby.svg)](https://gitter.im/just-a-directory/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Tired of these dotfiles version tools that does so many things that you don't need nor want ?
 
@@ -27,3 +25,5 @@ It can :
 [travis-url]: https://travis-ci.org/AdrienHorgnies/just-a-directory
 [daviddm-image]: https://david-dm.org/AdrienHorgnies/just-a-directory.svg?theme=shields.io
 [daviddm-url]: https://david-dm.org/AdrienHorgnies/just-a-directory
+[gitter-img]: https://badges.gitter.im/just-a-directory/Lobby.svg
+[gitter-url]: https://gitter.im/just-a-directory/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
