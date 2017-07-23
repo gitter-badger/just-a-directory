@@ -19,8 +19,8 @@ It can :
 * Check updates from upstream (git), warn you if any. (v0.4.0)
 * Apply update if simple enough (v1.2.0)
 
-[npm-image]: https://img.shields.io/npm/v/just-a-directory.svg
-[npm-url]: https://npmjs.org/package/just-a-directory
+[npm-image]: https://img.shields.io/npm/v/jad.svg
+[npm-url]: https://npmjs.org/package/jad
 [travis-image]: https://travis-ci.org/AdrienHorgnies/just-a-directory.svg?branch=master
 [travis-url]: https://travis-ci.org/AdrienHorgnies/just-a-directory
 [daviddm-image]: https://david-dm.org/AdrienHorgnies/just-a-directory.svg?theme=shields.io
