@@ -26,5 +26,6 @@
   "bugs": {
     "url": "https://github.com/AdrienHorgnies/just-a-directory/issues"
   },
-  "homepage": "https://github.com/AdrienHorgnies/just-a-directory#readme"
+  "homepage": "https://github.com/AdrienHorgnies/just-a-directory#readme",
+  "version": "0.0.0"
 }
