@@ -4,6 +4,8 @@
 
 # J.A.D. : Just A Directory
 
+[![Join the chat at https://gitter.im/just-a-directory/Lobby](https://badges.gitter.im/just-a-directory/Lobby.svg)](https://gitter.im/just-a-directory/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Tired of these dotfiles version tools that does so many things that you don't need nor want ?
 
 The purpose of this tool is to **put your files in a directory... and that's it**.
